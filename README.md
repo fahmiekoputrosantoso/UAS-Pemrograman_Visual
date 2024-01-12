@@ -9,5 +9,5 @@ Kelas   : TI.21.A.RPL-1
 ### Demo
 
 ```bash
-[https://youtu.be/wFliiQxOaag?feature=shared]
+[LINK YT](https://youtu.be/wFliiQxOaag?feature=shared)
 ```
